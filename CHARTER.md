@@ -1,6 +1,6 @@
 # Hypervisors SIG Charter
 
-The scope of the Hypervisor Software SIG can be:
+The scope of the Hypervisor Software SIG is:
 
 1. Coordinate progress on various open-source hypervisors (such as KVM, Xen, Xvisor, Bao, etc).
 2. Coordinate progress on various open-source hypervisor tools (such as QEMU, KVMTOOL, RustVMM, Libvirt, etc).
