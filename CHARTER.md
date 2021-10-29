@@ -1,7 +1,9 @@
-# {{ New Group Name }}
+# Hypervisors SIG Charter
 
-The information in this file should be created as part of the group formation and approved by your sponsoring group.  See the [Chairs Best Practices policy](https://docs.google.com/document/d/1rtXskVd7YyFq74tQ2OrInyM_-OQa228R5UZs5Pm3Vz0/) for more details.
+The scope of the Hypervisor Software SIG can be:
 
-A good Task Group (TG) charter describes how it achieves filling in a gap defined by the Special Interest Group (SIG) or Committee that spawned it (directly or dotted line). It lists the specific small set of  deliverables it will deliver.
-
-A SIG is an extension of a Committee, in that its only deliverables are strategy, gaps, and prioritizations, and helping spawn other SIGs or TGs to fill the gaps. A good SIG charter spells out the small set of topic areas their strategy will address along with its responsibilities as laid out in this bullet.
+1. Coordinate progress on various open-source hypervisors (such as KVM, Xen, Xvisor, Bao, etc).
+2. Coordinate progress on various open-source hypervisor tools (such as QEMU, KVMTOOL, RustVMM, Libvirt, etc).
+3. Discuss ideas about improving functionality, efficiency, and robustness of RISC-V support across open-source hypervisors.
+4. Contribute to platform specification and SBI specification from virtualization perspective.
+5. Help review upcoming ISA/non-ISA specifications which have hardware virtualization support in some form.
